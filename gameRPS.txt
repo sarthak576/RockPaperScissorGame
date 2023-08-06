@@ -1,0 +1,20 @@
+1) import random module
+<!-- We can therefore use this module to generate random numbers, display a random item for a list or string, and so on. -->
+
+
+2)options = ()
+<!-- we are not giong  to change the options so tuple is better than list . -->
+List	                      
+Operations like                
+insertion
+ and deletion are better    
+ performed.	                
+
+tuple
+  Elements can be accessed better.
+
+3) player = none 
+we can take input from it in future .
+
+4) 
+
